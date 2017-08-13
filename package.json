@@ -1,5 +1,5 @@
 {
-  "name": "react-typewriter",
+  "name": "parro-react-typewriter",
   "version": "0.4.1",
   "description": "React components for automatic typing effects.",
   "main": "./build/react-typewriter.js",
